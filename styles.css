@@ -8,6 +8,7 @@ body{
 hr{
     background-color: #942637;
     color: #942637;
+    height: 1px;
     width: 36%;
     margin:0;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
