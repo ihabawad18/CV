@@ -3,4 +3,4 @@ CV Website designed using html and CSS
 
 you can view the website on this link:
 
-https://github.com/ihabawad18/CV.io
+ ihabawad18.github.io/CV/ 
